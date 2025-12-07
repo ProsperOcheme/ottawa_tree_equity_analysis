@@ -68,7 +68,7 @@ This spatial analysis examines the distribution of 299,592 city-managed trees ac
 
 **Challenge solved:** Initial spatial intersection approach failed; pivoted to SQL aggregation with attribute-based joins for accurate results.
 
-📄 **[Download Full Methodology (PDF)](Ottawa_Trees_Methodology_Final.pdf)** - Complete technical documentation
+📄 **[Download Full Methodology (PDF)](Ottawa_Trees_Methodolgy_Final.pdf)** - Complete technical documentation
 
 ---
 
