@@ -32,7 +32,7 @@ This spatial analysis examines the distribution of 299,592 city-managed trees ac
 **Surprising insight:** Despite abundant open space, rural wards show dramatically lower city-managed tree density than expected.
 
 ### Ward-by-Ward Comparison:
-![Tree Density by Ward - All 24 Wards](ottawa_tree_density_chart.jpeg)
+![Tree Density by Ward - All 24 Wards](ottawa_tree_density_chart..jpeg)
 
 ---
 
