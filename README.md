@@ -77,7 +77,7 @@ This spatial analysis examines the distribution of 299,592 city-managed trees ac
 **Click to download:**
 
 - 📄 **[Executive Summary (PDF)](Executive_Summary_P1.pdf)** - 1-page overview of findings and recommendations
-- 📄 **[Full Methodology (PDF)](Ottawa_Trees_Methodology_Final.pdf)** - Complete 8-section technical documentation
+- 📄 **[Full Methodology (PDF)](Ottawa_Trees_Methodolgy_Final.pdf)** - Complete 8-section technical documentation
 - 🗺️ **Tree Density Map** - Graduated symbology visualization (shown above)
 - 📊 **Bar Chart** - Visual comparison of all 24 wards (shown above)
 - 📈 **Statistical Analysis** - Descriptive statistics by ward and ward type (in methodology)
