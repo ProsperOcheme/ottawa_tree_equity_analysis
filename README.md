@@ -4,7 +4,7 @@ Spatial analysis examining distribution of 300k city-managed trees across Ottawa
 
 **Analyzing distribution of city-managed trees to identify coverage gaps and prioritize investment**
 
-![Tree Density Map](link-to-your-map-image)
+![Tree Density Map](Ottawa_Tree_Density_Map2.jpeg)
 
 ---
 
@@ -66,8 +66,8 @@ This spatial analysis examines the distribution of 300,000 city-managed trees ac
 
 ## 📁 Project Deliverables
 
-- **[Executive Summary (PDF)](link-to-summary.pdf)** - 1-page overview of findings and recommendations
-- **[Full Methodology (PDF)](link-to-methodology.pdf)** - Complete technical documentation
+- **[Executive Summary (PDF)](Executive Summary P1.pdf)** - 1-page overview of findings and recommendations
+- **[Full Methodology (PDF)](Ottawa Trees Methodolgy Final.pdf)** - Complete technical documentation
 - **Tree Density Map** - Graduated symbology visualization
 - **Statistical Analysis** - Descriptive statistics by ward and ward type
 - **Bar Chart** - Visual comparison of all 24 wards
